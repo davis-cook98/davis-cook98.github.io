@@ -11,4 +11,4 @@ Java, Python, R
 
 **Languages I have experience with:**
 
-(Add later)
+Html, Lisp, Sql
