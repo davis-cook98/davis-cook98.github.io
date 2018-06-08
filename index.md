@@ -11,4 +11,4 @@ Java, Python, R
 
 **Languages I have experience with:**
 
-Html, Lisp, Sql
+Html, Lisp, Markdown, Sql
