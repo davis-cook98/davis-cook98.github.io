@@ -15,4 +15,4 @@ Html, Lisp, Markdown, Sql
 
 # Research topics:
 1. Network Security: The goal of this project is how to better detect irregularities in a network.
-2. Text Analysis: The goal of this project is to parse through thousands of documents related to school boards, find recurring n-grams that occur in the text, and detect trends in the documents. 
+2. Text Analysis: The goal of this project is to parse through thousands of documents and find trends in the topics of the articles.
