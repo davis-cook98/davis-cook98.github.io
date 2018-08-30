@@ -1,2 +1,2 @@
-# davis-cook98.github.io
+# Davis Cook's Page
 Code for my personal Github page. 
