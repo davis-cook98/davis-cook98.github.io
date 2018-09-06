@@ -12,6 +12,10 @@ Java, Python, R
 
 Html, Lisp, Markdown, Sql
 
+# Other Relevant Experience
+
+Git, Tableau, Linux, Powershell
+
 # Research topics:
 1. Network Security: The goal of this project is how to better detect irregularities in a network.
 2. Text Analysis: The goal of this project is to parse through thousands of documents and find trends in the topics of the articles.
