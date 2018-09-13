@@ -2,8 +2,7 @@
 
 # About me:
 
-I am a Junior at Seton Hall University studying computer science with a focus in data science. I am currently pursuing research topics in both network security and text analysis. [LinkedIn](https://www.linkedin.com/in/davis-cook-89b5a8100/)
-
+I am a Junior at Seton Hall University studying computer science with a focus in data science. I am currently pursuing research topics in both network security and text analysis. 
 # Languages I am proficient in:
 
 Java, Python, R
