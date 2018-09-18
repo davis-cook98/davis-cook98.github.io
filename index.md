@@ -15,7 +15,7 @@ Html, Lisp, Markdown, Sql
 
 Git, Tableau, Linux, Powershell
 
-Libraries I have used: Pandas, NLTK, BeautifulSoup
+**Libraries I have used:** Pandas, NLTK, BeautifulSoup
 
 # Research topics:
 1. Network Security: The goal of this project is how to better detect irregularities in a network.
