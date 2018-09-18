@@ -14,6 +14,7 @@ Html, Lisp, Markdown, Sql
 # Other Relevant Experience
 
 Git, Tableau, Linux, Powershell
+
 Libraries I have used: Pandas, NLTK, BeautifulSoup
 
 # Research topics:
