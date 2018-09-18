@@ -14,6 +14,7 @@ Html, Lisp, Markdown, Sql
 # Other Relevant Experience
 
 Git, Tableau, Linux, Powershell
+Libraries I have used: Pandas, NLTK, BeautifulSoup
 
 # Research topics:
 1. Network Security: The goal of this project is how to better detect irregularities in a network.
