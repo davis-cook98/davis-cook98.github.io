@@ -9,7 +9,7 @@ Java, Python, R
 
 # Languages I have experience with:
 
-Html, Lisp, Markdown, Sql
+Html, Lisp, Sql
 
 # Other Relevant Experience
 
